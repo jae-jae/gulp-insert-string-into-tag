@@ -1,0 +1,23 @@
+{
+  "name": "gulp-insert-string-into-tag",
+  "version": "1.0.0",
+  "description": "gulp插入字符串到指定标签之间的插件",
+  "main": "gulp-insert-string-into-tag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jae-jae/gulp-insert-string-into-tag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jae-jae/gulp-insert-string-into-tag/issues"
+  },
+  "homepage": "https://github.com/jae-jae/gulp-insert-string-into-tag#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
