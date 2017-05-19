@@ -1,8 +1,8 @@
 {
   "name": "gulp-insert-string-into-tag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "gulp插入字符串到指定标签之间的插件",
-  "main": "gulp-insert-string-into-tag.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
